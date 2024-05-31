@@ -11,9 +11,5 @@
             "src": "/(.*)",
             "dest": "/index.js"
         }
-    ],
-    "env": {
-        "EMAIL_USERNAME": "@email_username",
-        "EMAIL_PASSWORD": "@email_password"
-    }
+    ]
 }
